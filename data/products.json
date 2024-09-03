@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sneakers",
+        "price": 79.99,
+        "stock": 50,
+        "category": "Footwear" ,
+        "description": "Comfortable and stylish sneakers, perfect for everyday wear." ,
+        "imageUrl":  "https://example.com/images/headphones.png",
+        "isStocked": true
+     
+    },
+    {
+        "name": " Laptop", 
+        "price": 99.99, 
+        "quantity": 20,
+        "category": "Electronics", 
+        "description": " High-performance laptop with a powerful processor and ample storage..",
+        "imageUrl": "https://example.com/images/headphones.png" ,
+        "isStocked": true
+    },
+
+    {
+        "name" :"Book",
+        "price" : 12.99 ,
+        "quantity" : 100,
+        "category" : "Books" ,
+        "description" :"A captivating novel with a thrilling plot",
+        "ImageUrl" : "https://example.com/images/hitchhikers_guide.jpg" ,
+        "isStocked": false
+    }
+
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "clientName" : "John",
+        "clientLastname": "Doe",
+        "email": "JohnDoe@gmail.com",
+        "num": 123456789,  
+        "address": {
+            "wilaya": "Algiers" , 
+            "commune": "Bir Mourad Rais" ,
+            "street": "Rue de la Liberté" 
+        }
+
+    },
+    {
+        "clientName" : "Jane",
+        "clientLastname": "Smith",
+        "email": "JaneSmith@gmail.com",
+        "num": 987654321,  
+        "address": {
+            "wilaya": "Oran" , 
+            "commune": "Sidi El Houari" ,
+            "street": "Avenue Mohamed Ben Ahmed" 
+        }
+
+    },
+    {
+        "clientName" : "Ahmed",
+        "clientLastname": "Ben Salah",
+        "email": "Ahmed344@gmail.com",
+        "num": 543216789,  
+        "address": {
+            "wilaya": "Constantine" , 
+            "commune": "Cité Djebel Wahch" ,
+            "street": "Boulevard Circulaire" 
+        }
+
+
+    } 
+
+]

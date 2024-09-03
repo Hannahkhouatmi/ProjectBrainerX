@@ -1,0 +1,4 @@
+{
+    "port" : 8000 ,
+    "mongo_url" : "mongodb://localhost:27017/project_db"
+}

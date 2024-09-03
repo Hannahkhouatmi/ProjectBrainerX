@@ -1,0 +1,40 @@
+[
+    {
+       " products": [{
+            "quantity": 2 ,
+            "product_id" : "66bf6e0917404836b1e5a556"
+          
+        }],
+        "orderId ": 50,
+        "totalPrice": 29.99,
+        "orderDate": "2024-08-10T00:00:00.000Z",
+        "status": "shipped",
+        "clientId" : "66bbf543518c4794ed3c45b9"
+    },
+    {
+        " products": [{
+            "quantity": 3 ,
+            "product_id" : "66bf6e0917404836b1e5a557"
+           
+        }],
+        "orderId ": 51,
+        "totalPrice": 72.77, 
+        "orderDate": "2024-04-10T00:00:00.000Z",
+        "status": "delivered",
+        "clientId" : "66bbf543518c4794ed3c45ba"
+    },
+    {
+        " products": [{
+            "quantity": 4 ,
+            "product_id" : "66bf6e0917404836b1e5a557"
+          
+        }],
+        "orderId ": 52,
+        "totalPrice": 14.99, 
+        "orderDate": "2024-02-10T00:00:00.000Z",
+        "status": "pending",
+        "clientId" : "66bbf543518c4794ed3c45bb"
+
+
+    }
+]
